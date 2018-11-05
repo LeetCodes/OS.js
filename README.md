@@ -46,7 +46,7 @@ docker run -p 8000:8000 osjs/osjs:v3
 
 ```
 # Clone *only* the v3 branch
-git clone -b v3 --single-branch https://github.com/os-js/OS.js.git
+git clone -b v3 --single-branch https://github.com/leetcodes/OS.js.git
 cd OS.js
 ```
 
